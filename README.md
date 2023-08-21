@@ -1,5 +1,3 @@
-![](https://github.com/Inostroza7/Inostroza7/blob/main/banner.png)
-
 <!--
 **Inostroza7/Inostroza7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
